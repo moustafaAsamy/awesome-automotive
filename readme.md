@@ -104,6 +104,7 @@
 - [as <img src="media/icons/github.png" height="18"/>](https://github.com/autoas/as) - automotive software(OSEK & AUTOSAR) and its tool-chain [here](http://autoas.github.io/as/).
 - [autosar-framework <img src="media/icons/github.png" height="18"/>](https://github.com/myGiter/autosar-framework) - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
 - [autosar <img src="media/icons/github.png" height="18"/>](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files.
+- [AUTOSAR](https://www.youtube.com/channel/UCOG-qluwZnKIzDicdc0R_Rg) - An awesome YouTube channel that gives an intro to AUTOSAR
 
 
 ## Automotive SPICE
